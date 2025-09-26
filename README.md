@@ -15,6 +15,3 @@ Pharmix adalah platform apotek online yang menyediakan layanan pembelian obat da
 Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami melalui [email](mailto:arpeggio.gns@gmail.com).
 
 Terima kasih telah menggunakan Pharmix! Kami berharap Anda mendapatkan pengalaman berbelanja obat yang aman dan nyaman dengan kami. 🌟
-
-##Preview Website
-https://davindakhrisna.github.io/Pharmix_Lomba/
